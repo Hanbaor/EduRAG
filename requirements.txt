@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+llama-index-core
+llama-index-llms-openai
+llama-index-llms-openai-like
+llama-index-embeddings-openai
+llama-index-readers-file
+openai
+
+llama-index-embeddings-huggingface
+llama-index-vector-stores-faiss
+faiss-cpu
